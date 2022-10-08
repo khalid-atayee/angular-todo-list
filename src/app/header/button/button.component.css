@@ -1,0 +1,10 @@
+.btn{
+    padding: .7em 2em;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor:pointer;
+}
+.btn:hover{
+    background-color: rgb(4, 0, 255);
+}

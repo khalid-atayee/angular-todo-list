@@ -1,0 +1,15 @@
+.task{
+    background-color: #D1DEF1;
+    padding: 0 1em;
+    margin: .2em;
+    display: flex;
+    flex-direction: column;
+
+}
+h3{
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    cursor: pointer;
+}
